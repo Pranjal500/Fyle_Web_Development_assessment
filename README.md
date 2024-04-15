@@ -1,8 +1,11 @@
 Tax Calculator Web App Readme
 
 Files: index.html: Contains the structure of the web page, including the form for input and the modal for displaying results.
+
 styles.css: Custom CSS styles for styling the elements on the web page. 
-index.js: JavaScript code for form validation, tax calculation, and modal functionality. Functionalities: Tax Calculation Form:
+
+index.js: JavaScript code for form validation, tax calculation, and modal functionality. Functionalities:
+Tax Calculation Form:
 
 Users input gross annual income, extra income, age, and applicable deductions. Input fields are validated to ensure valid numeric values are entered.
 
