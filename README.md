@@ -1,4 +1,4 @@
-Tax Calculator Web App Readme
+Tax Calculator Web App Readme file
 
 Files: index.html: Contains the structure of the web page, including the form for input and the modal for displaying results.
 
@@ -24,4 +24,4 @@ Technologies Used: HTML5: Structure of the web page. CSS3: Styling the elements.
 
 <br/>
 Contributor : <b>Pranjal Singh <b/>
-mailto:mrpranjal917@gmail.com
+[mailto:mrpranjal917@gmail.com]
