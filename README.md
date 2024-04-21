@@ -47,4 +47,4 @@ Bootstrap 5: Styling and responsiveness.
 <br/>
 Contributor : <b>Pranjal Singh <b/>
 
-[][mailto:mrpranjal917@gmail.com]
+[mailto:mrpranjal917@gmail.com]
