@@ -1,6 +1,8 @@
 Tax Calculator Web App Readme file
 
-Files: index.html: Contains the structure of the web page, including the form for input and the modal for displaying results.
+Their are three Files:-
+First File:-
+index.html: This file Contains the structure of the web page, including the form for input and the modal for displaying results.
 
 styles.css: Custom CSS styles for styling the elements on the web page. 
 
